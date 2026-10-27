@@ -1,9 +1,10 @@
 ---
 title: SkinSense Explainer
-emoji: 🩺
-colorFrom: blue
-colorTo: indigo
+emoji: 🌿
+colorFrom: yellow
+colorTo: gray
 sdk: gradio
+sdk_version: 6.30.0
 app_file: app.py
 pinned: false
 ---
