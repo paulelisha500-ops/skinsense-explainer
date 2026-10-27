@@ -1,0 +1,44 @@
+{
+  "acne": {
+    "name": "Acne vulgaris",
+    "what_it_is": "A common condition in which hair follicles become blocked with sebum and dead skin cells, producing comedones, papules and sometimes inflamed nodules. It is most frequent on the face, chest and upper back.",
+    "typical_appearance": "Mixed blackheads and whiteheads with red raised spots; may leave temporary dark marks or scarring after inflammation settles.",
+    "who_gets_it": "Very common in adolescence and also seen in adults, particularly women. Hormonal change, occlusive cosmetics and friction are recognised contributing factors.",
+    "when_to_see_a_clinician": "If lesions are deep and painful, if scarring is developing, or if the condition is affecting mood or daily life."
+  },
+  "eczema": {
+    "name": "Eczema (atopic dermatitis)",
+    "what_it_is": "A chronic relapsing inflammatory skin condition associated with a weakened skin barrier. It tends to run in families alongside asthma and hay fever.",
+    "typical_appearance": "Dry, scaly, intensely itchy patches, often in skin creases such as elbows and knees. Scratching can cause thickening of the skin over time.",
+    "who_gets_it": "Frequently begins in early childhood; many people improve with age, though some continue to have flares into adulthood.",
+    "when_to_see_a_clinician": "If the skin becomes weeping, crusted or painful, which can indicate infection, or if sleep is disturbed by itching."
+  },
+  "psoriasis": {
+    "name": "Psoriasis",
+    "what_it_is": "An immune-mediated condition in which skin cells are produced far faster than normal, so they accumulate on the surface rather than shedding gradually.",
+    "typical_appearance": "Well-demarcated raised plaques with silvery scale, commonly on elbows, knees, lower back and scalp. Nails may show pitting.",
+    "who_gets_it": "Affects roughly two per cent of people worldwide and can begin at any age. It is not contagious.",
+    "when_to_see_a_clinician": "If plaques are widespread, if joints become painful or swollen, or if the appearance is causing distress."
+  },
+  "tinea": {
+    "name": "Tinea (fungal skin infection)",
+    "what_it_is": "A superficial infection of the skin caused by dermatophyte fungi. Named by site, for example tinea corporis on the body or tinea pedis on the feet.",
+    "typical_appearance": "A ring-shaped patch with a raised scaly edge and a clearer centre; often itchy. On the feet it may appear as moist scaling between the toes.",
+    "who_gets_it": "Anyone; spread is favoured by warmth, moisture and shared surfaces such as changing-room floors.",
+    "when_to_see_a_clinician": "If the area is spreading, if the scalp or nails are involved, or if it has not settled with usual over-the-counter measures."
+  },
+  "urticaria": {
+    "name": "Urticaria (hives)",
+    "what_it_is": "Transient swelling of the upper skin layers caused by release of histamine from mast cells. Individual weals characteristically come and go within hours.",
+    "typical_appearance": "Raised pale or pink weals of varying size, usually very itchy, with surrounding redness. Each spot typically fades within a day without leaving a mark.",
+    "who_gets_it": "Common and often short-lived after an infection or a trigger; a minority experience it for longer periods.",
+    "when_to_see_a_clinician": "Urgently if there is swelling of the lips, tongue or throat, or any difficulty breathing. Otherwise if weals persist beyond six weeks."
+  },
+  "melanocytic_nevus": {
+    "name": "Melanocytic naevus (mole)",
+    "what_it_is": "A benign cluster of pigment-producing cells. Most people have between ten and forty moles, which may change slowly over a lifetime.",
+    "typical_appearance": "A uniformly coloured brown or tan spot with a regular border, usually smaller than six millimetres and symmetrical.",
+    "who_gets_it": "Almost everyone. Numbers increase with sun exposure and tend to peak in early adulthood.",
+    "when_to_see_a_clinician": "If a mole changes in size, shape or colour, becomes asymmetric or irregular at the edge, itches, bleeds, or simply looks different from your others."
+  }
+}
